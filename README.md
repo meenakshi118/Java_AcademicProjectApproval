@@ -28,6 +28,7 @@ The Academic Project Management System is a web-based application built using JS
 ⏰ Send reminders and notifications.
 
 ----------------------🛠️ Tech Stack------------------------------
+
 Frontend: HTML, CSS
 Backend: JSP, Servlets
 Database: MySQL
