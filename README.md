@@ -6,33 +6,33 @@ The Academic Project Management System is a web-based application built using JS
 
 🔹 Key Features
 
--------------------👨‍🎓 Student Module--------------------------
+## 👨‍🎓 Student Module---------------------------------------------
 
-📤 Upload project synopsis and final report.
-👨‍🏫 View assigned incharge and project details.
-✅ Check approval status (Approved/Rejected).
-📌 See rejection reasons and re-submit projects if required.
-🔔 Receive notifications from HOD.
+ **📤 Upload project synopsis and final report. **
+ **👨‍🏫 View assigned incharge and project details. **
+ **✅ Check approval status (Approved/Rejected). **
+ **📌 See rejection reasons and re-submit projects if required. **
+ **🔔 Receive notifications from HOD. **
 
------------------🧑‍🏫 Incharge Module----------------------------
+## 🧑‍🏫 Incharge Module----------------------------------------------
 
-👀 View students assigned under them.
-📝 Approve or reject student projects.
-📊 Track project statuses and feedback.
+ **👀 View students assigned under them. **
+ **📝 Approve or reject student projects. **
+**📊 Track project statuses and feedback. **
 
----------------------🎓 HOD Module------------------------------
+## 🎓 HOD Module----------------------------------------------------
 
-🎯 Assign incharges to students.
-📝 Approve or reject projects.
-🔍 View all student project statuses.
-⏰ Send reminders and notifications.
+ **🎯 Assign incharges to students. **
+ **📝 Approve or reject projects. **
+ **🔍 View all student project statuses. **
+ **⏰ Send reminders and notifications. **
 
-----------------------🛠️ Tech Stack------------------------------
+## 🛠️ Tech Stack-----------------------------------------------------
 
-Frontend: HTML, CSS
-Backend: JSP, Servlets
-Database: MySQL
-Server: Apache Tomcat
+ **Frontend: HTML, CSS **
+ **Backend: JSP, Servlets **
+ **Database: MySQL **
+ **Server: Apache Tomcat **
 
 
 # Project Approval Dummy Database -------------------------------------
