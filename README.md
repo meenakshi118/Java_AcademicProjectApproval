@@ -35,9 +35,9 @@ Database: MySQL
 Server: Apache Tomcat
 
 
-# Project Approval Dummy Database --------------------------------------------------------------------------------------------------------------------------------
+# Project Approval Dummy Database -------------------------------------
 
-This repository contains a dummy version of the `projectapproval` database used in our project.  
+This contains a dummy version of the `projectapproval` database used in our project.  
 It includes all necessary tables with dummy data for testing purposes.
 
 ## 📌 Database Name: `projectapproval`
