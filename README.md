@@ -3,6 +3,7 @@ Academic Project Management System 🎓
 
 📌 Overview
 The Academic Project Management System is a web-based application built using JSP and Servlets to streamline the academic project approval process. It allows students to submit project synopses and reports, which are reviewed and approved by designated incharges and HODs. The system ensures transparency, role-based access, and structured workflow for project evaluation.
+Academic Project Approval and collaborative management system is a major issue which is faced by many educational institutes, the main reason for this is there is no automated system followed in any institute. College management/staff gathers all the project reports and project sources from students and store them physically in some locations probably libraries. To overcome this practical problem and also to make the process easy I developed  a secured application which is useful for each. 
 
 ## 🔹 Key Features
 
