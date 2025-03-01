@@ -32,7 +32,7 @@ The Academic Project Management System is a web-based application built using JS
 - **Server:** Apache Tomcat  
 
 
-# Project Approval Dummy Database -------------------------------------
+## Project Approval Dummy Database -------------------------------------
 
 This contains a dummy version of the `projectapproval` database used in our project.  
 It includes all necessary tables with dummy data for testing purposes.
